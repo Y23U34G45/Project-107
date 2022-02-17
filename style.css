@@ -1,0 +1,26 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: pink;
+}
+.header_div{
+    background: gray;
+    color: white;
+}
+.main_div button{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    color: gray;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    background-color: blue;
+    line-height: 3px;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+}
